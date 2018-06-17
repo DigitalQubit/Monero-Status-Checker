@@ -1,6 +1,8 @@
 # Monero-Status-Checker
 
-Terminal GUI Application for keeping track of mining statuses from various popular pools.
+Terminal GUI Application for keeping track of mining statuses from various popular pools. 
+
+## Checking your mining in style!
 
 This application can be used to monitor the hashrate, the percentage of valid shares, amount of monero due to be paid, amount of monero already paid, and provide a hashrate history chart **directly to the console!** No more having to go to the website, and dealing with the hassle of clicking through tabs, etc. 
 
@@ -30,24 +32,39 @@ This application can be used to monitor the hashrate, the percentage of valid sh
 ## Usage
 
 ### Windows
+
 `CheckStats.exe <Your Monero Address Here> <The Pool # Here>`
 
 ### Linux 
+
 `./CheckStats <Your Monero Address Here> <The Pool # Here>`
 
 ### Example 
 **Fake Public Address, and checking stats from supportxmr!**
+
 `./CheckStats 4hd54xjkhsdjf4jkhsdf4jzukh84jkhsdu8edDedf55sdkljfa8asdfa 1`
 
 ### What are the monero pool numbers?
 1 == [supportxmr](https://supportxmr.com)
+
 2 == [xmrpool](https://xmrpool.net)
+
 3 == [viaxmr](https://viaxmr.com)
+
 4 == [hashvault](https://monero.hashvault.pro)
+
 5 == [moriaxmr](https://moriaxmr.com)
+
 6 == [moneroocean](https://moneroocean.stream)
+
+## Dependencies and Thanks
+
+1. [Termui](https://github.com/gizak/termui) by gizak
+2. [colly](https://github.com/gocolly/colly) by gocolly
+3. [percent](https://github.com/dariubs/percent) by dariubs
 
 ## Please sir, another coffee?
 
 **XMR:** 439Jr3ATzETf7ARQgmqAybW9B4htJi5DmDU97ZFffMDXAinbXPCAbydf8Zy1ELqvFV59JYQkn2zswMmt6S2PbUajRZ4BdEQ
+
 **BTC:** 17tAcYQPD44QHqCXeByYczDeqV8MPnmAwq
