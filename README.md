@@ -18,6 +18,7 @@ This application can be used to monitor the hashrate, the percentage of valid sh
 ## Features 
 
 1. The console can be dynamically resized, and the gui will maintain its original format
+
 **Note: Sorry for the low gif quality, but you get the point.**
 ![Demo Gif](https://github.com/DigitalQubit/Monero-Status-Checker/raw/master/mydemo.gif)
 
