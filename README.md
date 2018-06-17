@@ -68,3 +68,7 @@ This application can be used to monitor the hashrate, the percentage of valid sh
 **XMR:** 439Jr3ATzETf7ARQgmqAybW9B4htJi5DmDU97ZFffMDXAinbXPCAbydf8Zy1ELqvFV59JYQkn2zswMmt6S2PbUajRZ4BdEQ
 
 **BTC:** 17tAcYQPD44QHqCXeByYczDeqV8MPnmAwq
+
+## License
+
+Monero-Status-Checker was made by DigitalQubit and is licensed under GPL-3.0
